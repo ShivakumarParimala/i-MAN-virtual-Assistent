@@ -44,6 +44,7 @@
 
 .main .image-container p {
   color: #16e10f;
+
   text-align: center;
   margin-bottom: 40px;
 }
@@ -52,10 +53,10 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 40vw;
+  width: 50vw;
   height: 50px;
   border-radius: 20px;
-  background: rgba(83, 225, 230, 0.725);
+  background: rgba(235, 77, 68, 0.725);
 }
 
 .main .input .talk {
